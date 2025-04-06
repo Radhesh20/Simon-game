@@ -6,10 +6,11 @@ A fun and challenging memory game built with **HTML**, **CSS**, and **JavaScript
 
 ## 🎮 How to Play
 
-1. **Watch the pattern**: A sequence of colors will flash.
-2. **Repeat the sequence** by clicking the colored buttons in the same order.
-3. **Each level**, a new color is added to the sequence.
-4. **Game Over** if you press the wrong button — the game resets and shows your score.
+1. **Start the game** by pressing any key (or a "Start" button if implemented).
+2. **Watch the pattern**: A sequence of colors will flash.
+3. **Repeat the sequence** by clicking the colored buttons in the same order.
+4. **Each level**, a new color is added to the sequence.
+5. **Game Over** if you press the wrong button — the game resets and shows your score.
 
 ---
 
